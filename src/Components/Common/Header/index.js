@@ -18,7 +18,7 @@ const Header = ({ setMode, mode }) => {
   return (
     <Paper className="flex flex-col !rounded-none">
       <div className="flex flex-col gap-3 p-6 text-center">
-        <h1 className="text-4xl font-bold">Brand Name</h1>
+        <h1 className="text-4xl font-bold">Blog Maria</h1>
         <Typography>Resize the browser window to see the effect.</Typography>
       </div>
       <div className="flex items-center justify-between px-3 bg-black">

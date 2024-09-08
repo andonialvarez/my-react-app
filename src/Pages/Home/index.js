@@ -12,8 +12,8 @@ const Home = () => {
     <div className="flex flex-wrap">
       <div className="w-full p-4 md:w-3/4">
         {/* Display two cards */}
-        <Card title="TITLE HEADING" date="Title description, Apr 4, 2024" imageHeight="200px" />
-        <Card title="TITLE HEADING" date="Title description, Apr 4, 2024" imageHeight="200px" />
+        <Card title="TITLE HEADING 1" date="Title description, Apr 4, 2024" imageHeight="200px" />
+        <Card title="TITLE HEADING 2" date="Title description, Apr 4, 2024" imageHeight="200px" />
       </div>
       {/* Display right column component */}
       <RightColumn />

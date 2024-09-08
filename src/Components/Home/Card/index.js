@@ -28,7 +28,7 @@ const Card = ({ title, date, imageHeight }) => {
         }}
         elevation={0}
       >
-        Image
+        Image 1
       </Paper>
       {/* Card content */}
       <p className="my-3">Some text..</p>
